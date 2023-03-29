@@ -1,4 +1,6 @@
-### Welcome to my Github profile!![200159564-c5b9abd1-c8e6-4e82-8fde-01291d600a6a](https://pin.it/6GkcLNv)
+### Welcome to my Github profile!
+![6636d37ba22a391c6353b1436a81f656](https://user-images.githubusercontent.com/114347097/228433340-4486b849-479c-4d5a-b877-2792eaa20110.gif)
+
 
 <!--
 **Ashrahx/Ashrahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
