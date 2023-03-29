@@ -1,5 +1,4 @@
 ### Welcome to my Github profile!
-![75adf60a163180dfeb0c467511e25191](https://user-images.githubusercontent.com/114347097/221465888-17bbd794-56fc-42d3-a777-ef8dee30cd45.gif)
 
 
 <!--
