@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github profile!</h1>
 <div id="header" align="center">
-  <img src="(https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif)" width="200"/>
+  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pedro-garcia-789154256">
