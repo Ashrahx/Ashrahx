@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github profile!</h1>
 <div id="header" align="center">
-  <img src="(https://user-images.githubusercontent.com/114347097/228433340-4486b849-479c-4d5a-b877-2792eaa20110.gif" width="200"/>
+  <img src="((https://pin.it/7C92uh6)" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dante-kaled-barron-elizondod-3b1058224/">
