@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://ashrahx.github.io/Personal-Portfolio/" width="50">
+  <a href="https://ashrahx.github.io/Personal-Portfolio/" width="500">
     <img src="https://img.shields.io/badge/-PORTAFOLIO-blueviolet" alt="Portfolio"/>
   </a>
 </div>
