@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://ashrahx.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/-PORTAFOLIO-blueviolet" alt="Portfolio" width="120" height="30"/>
+    <img src="https://img.shields.io/badge/-PORTFOLIO-blueviolet" alt="Portfolio" width="120" height="30"/>
   </a>
 </div>
 
