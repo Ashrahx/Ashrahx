@@ -2,9 +2,9 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="200"/>
 </div>
-<div id="badges" align="center" width="500" height="200">
+<div id="badges" align="center">
   <a href="https://ashrahx.github.io/Personal-Portfolio/">
-    <img src="https://img.shields.io/badge/-PORTAFOLIO-blueviolet" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-PORTAFOLIO-blueviolet" alt="Portfolio" width="500" height="200"/>
   </a>
 </div>
 
