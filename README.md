@@ -15,7 +15,7 @@ I am a computer systems engineering student.
 - 🖌️: In my spare time I design things..
 - 🌱: I´m currently learning Python and C#...
 - ☕: Hobbies other than coding: Game development. Image and video editing.
-- 📧: How to reach me : elfudanshi5@gmail.com
+- 📧: How to reach me : Ashraahx@gmail.com
 ---
 
 ### ⚙: Languages and Tools :
