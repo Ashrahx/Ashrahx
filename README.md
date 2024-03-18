@@ -13,7 +13,7 @@
 ### ℹ️: About Me :
 I am a computer systems engineering student.
 - 🖌️: In my spare time I create and design things..
-- 🌱: I´m currently learning Python and Astro...
+- 🌱: I´m currently learning Typescript and Astro...
 - 📧: How to reach me : Ashraahx@gmail.com
 ---
 
