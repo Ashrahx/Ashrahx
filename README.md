@@ -11,7 +11,7 @@
 ---
 
 ### ℹ️: About Me :
-I am a computer systems engineering student.
+My name is Emiliano and I am a computer systems engineering student.
 - 🖌️: In my spare time I create and design things..
 - 🌱: I´m currently learning C#...
 - 📧: How to reach me : Ashraahx@gmail.com
