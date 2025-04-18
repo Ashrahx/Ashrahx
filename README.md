@@ -19,7 +19,7 @@ My name is Emiliano and I am a computer systems engineering student.
 
 ### ⚙: Languages and Tools :
 <div display="flex">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/Ashrahx/Personal-Portfolio/tree/main/assets/images/html5.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
