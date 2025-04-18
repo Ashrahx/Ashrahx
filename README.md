@@ -21,14 +21,14 @@ My name is Emiliano and I am a computer systems engineering student.
 <div display="flex">
     <img src="/images/html5.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
 <img src="/images/css3.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
-<img src="/images/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+<img src="/images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 <img src="/images/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-<img src="/images/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+<img src="/images/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
 <img src="/images/python.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="/images/php.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
 <img src="/images/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
 <img src="/images/git.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-<img src="/images/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40" />&nbsp;
+<img src="/images/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
 
   
 </div>
