@@ -26,11 +26,11 @@ My name is Emiliano and I am a computer systems engineering student.
 <img src="/images/python.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="/images/php.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
 <img src="/images/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+<img src="/images/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
 <img src="/images/jquery.svg" title="JQuery" alt="JQuery" width="40" height="40" />&nbsp;
 <img src="/images/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
 <img src="/images/astro.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
-<img src="/images/node.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
-<img src="/images/git.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+<img src="/images/node.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
 <img src="/images/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
 <img src="/images/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
 
