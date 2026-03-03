@@ -1,38 +1,34 @@
-<h1 align="center">Welcome to my Github profile!</h1>
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="200"/>
-</div>
-<div id="badges" align="center">
+<h1 align="center">Hi there! I'm Emiliano 👋</h1>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="180"/>
+  <br>
   <a href="https://portafolio-rosy-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-blueviolet" alt="Portfolio" width="120" height="30"/>
+    <img src="https://img.shields.io/badge/-PORTFOLIO-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-### ℹ️: About Me :
-My name is Emiliano and I am a computer systems engineering student.
-- 🖌️: In my spare time I create and design things..
-- 🌱: I´m currently learning C#...
-- 📧: How to reach me : Ashraahx@gmail.com
+### 🚀 About Me
+I'm a **Computer Systems Engineering Student** passionate about building functional and aesthetic digital experiences.
+
+- 🖌️ **Creative Soul:** In my spare time, I enjoy designing and bringing new ideas to life.
+- 🌱 **Growth Mindset:** Currently diving deep into **C#** and game development logic.
+- 📧 **Let's Connect:** Reach me at [Ashraahx@gmail.com](mailto:Ashraahx@gmail.com)
+
 ---
 
-### ⚙: Languages and Tools :
-<div display="flex">
-    <img src="/images/html5.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
-<img src="/images/css3.svg" title="CSS" alt="CSS" width="40" height="40" />&nbsp;
-<img src="/images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-<img src="/images/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-<img src="/images/python.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
-<img src="/images/php.svg" title="PHP" alt="PHP" width="40" height="40" />&nbsp;
-<img src="/images/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
-<img src="/images/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
-<img src="/images/jquery.svg" title="JQuery" alt="JQuery" width="40" height="40" />&nbsp;
-<img src="/images/laravel.svg" title="Laravel" alt="Laravel" width="40" height="40" />&nbsp;
-<img src="/images/astro.svg" title="Astro" alt="Astro" width="40" height="40" />&nbsp;
-<img src="/images/node.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
-<img src="/images/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
-<img src="/images/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,tailwind,bootstrap,jquery,laravel,astro,nodejs,mysql,firebase" />
+  </a>
+</p>
 
-  
-</div>
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+</p>
