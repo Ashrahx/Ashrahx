@@ -38,10 +38,3 @@ I'm a **Computer Systems Engineering Student** passionate about building functio
   <img src="/images/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
   <img src="/images/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-seven-beta.vercel.app/api?username=Ashrahx&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff&text_color=d1d1d1&bg_color=1a1b26" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashrahx&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff&text_color=d1d1d1&bg_color=1a1b26" alt="Top Langs" />
-</p>
