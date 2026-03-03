@@ -43,4 +43,5 @@ I'm a **Computer Systems Engineering Student** passionate about building functio
 
 <p align="center">
   <img src="https://github-readme-stats-seven-beta.vercel.app/api?username=Ashrahx&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff&text_color=d1d1d1&bg_color=1a1b26" alt="Stats" />
+  <img src="https://github-readme-stats-seven-beta.vercel.app/api/top-langs/?username=Ashrahx&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff&text_color=d1d1d1&bg_color=1a1b26" alt="Top Langs" />
 </p>
