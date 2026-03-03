@@ -42,5 +42,5 @@ I'm a **Computer Systems Engineering Student** passionate about building functio
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashraahx&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
 </p>
