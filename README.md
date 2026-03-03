@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://portafolio-rosy-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio" height="35"/>
+    <img src="https://img.shields.io/badge/-PORTFOLIO-blueviolet" alt="Portfolio" height="35"/>
   </a>
 </div>
 
